@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/jingzhelin/.vim/colors/wellsokai.vim'
+let g:netrw_dirhist_7='/Users/jingzhelin/Documents/PY/music-gener-finder-for-apache2'
+let g:netrw_dirhist_6='/Users/jingzhelin/Documents/PY/web_exersise'
+let g:netrw_dirhist_5='/Users/jingzhelin/Documents/PY'
+let g:netrw_dirhist_4='/Users/jingzhelin/Documents/PY/music-gener-finder-for-apache2'
+let g:netrw_dirhist_3='/Users/jingzhelin/Documents/PY/music-gener-finder-for-apache2/finalcsv'
+let g:netrw_dirhist_2='/Users/jingzhelin/Documents/PY/music-gener-finder-for-apache2'
+let g:netrw_dirhist_1='/Users/jingzhelin/Documents/PY'
