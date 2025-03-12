@@ -1,7 +1,7 @@
 # Vim 設定檔
 `cd ~`<br>
 `git clone https://github.com/Ryanlin6700/vim_conf.git`<br>
-`mv vim_conf .vim`<br>
+`rsync -av vim_conf/ .vim/`<br>
 `ln -s .vim/.vimrc .`<br>
 進到 vim 使用vim-plug 安裝套件<br>
 `:PlugInstall`
